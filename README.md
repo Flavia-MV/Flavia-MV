@@ -9,10 +9,11 @@
 
 Software engineer focused on building fast, reliable, and user-centric web applications.
 
-- ⚡ **Core focus:** Frontend (TypeScript, CSS) with strong backend fundamentals (Python, Java)
+- 🎓 Computer Science Student
+- 🚀 **Full-Stack Engineer** focused on building end-to-end applications and backend systems
+- 🌱 Deepening my knowledge in **TypeScript, Python, concurrent processing, and Docker**
 - 🛠️ **Recent builds:** From an **AI Codebase Assistant** to a **Parallel News Aggregator** and an in-memory **Mini-Redis** implementation
-- 📚 **Currently exploring:** Containerization with Docker, performance optimization, and AI tool integration
-- 👥 **0** followers · **1** following
+- 🎯 Seeking **Full-Stack Engineering** internship / junior roles
 
 ## Proof at a glance
 
