@@ -11,7 +11,7 @@ Software engineer focused on building fast, reliable, and user-centric web appli
 
 - 🎓 Computer Science Student
 - 🚀 **Full-Stack Engineer** focused on building end-to-end applications and backend systems
-- 🌱 Deepening my knowledge in **TypeScript, Python, concurrent processing, and Docker**
+- 🌱 Deepening my knowledge in **C, Python, Java, and Docker**
 - 🛠️ **Recent builds:** From an **AI Codebase Assistant** to a **Parallel News Aggregator** and an in-memory **Mini-Redis** implementation
 - 🎯 Seeking **Full-Stack Engineering** internship / junior roles
 
