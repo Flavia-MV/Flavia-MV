@@ -1,4 +1,3 @@
-## Profile snapshot
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=flavia-mv&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F245884147%3Fv%3D4" alt="flavia-mv hero visual" />
