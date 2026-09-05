@@ -7,8 +7,11 @@
 
 ## About
 
-Building useful things and learning in public.
+Software engineer focused on building fast, reliable, and user-centric web applications.
 
+- ⚡ **Core focus:** Frontend (TypeScript, CSS) with strong backend fundamentals (Python, Java)
+- 🛠️ **Recent builds:** From an **AI Codebase Assistant** to a **Parallel News Aggregator** and an in-memory **Mini-Redis** implementation
+- 📚 **Currently exploring:** Containerization with Docker, performance optimization, and AI tool integration
 - 👥 **0** followers · **1** following
 
 ## Proof at a glance
