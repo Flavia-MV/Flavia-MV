@@ -1,16 +1,39 @@
-## Hi there 👋
+## Profile snapshot
 
-<!--
-**Flavia-MV/Flavia-MV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=flavia-mv&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F245884147%3Fv%3D4" alt="flavia-mv hero visual" />
+</p>
 
-Here are some ideas to get you started:
+**flavia-mv** · Frontend or full-stack engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Building useful things and learning in public.
+
+- 👥 **0** followers · **1** following
+
+## Proof at a glance
+
+<table>
+<tr><td align="center"><b>6</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>74</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Core toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) `Dockerfile`
+
+## Selected work
+
+- **[ai-codebase-assistant](https://github.com/Flavia-MV/ai-codebase-assistant)** — Featured public work · ⭐ 1
+- **[parallel-news-aggregator](https://github.com/Flavia-MV/parallel-news-aggregator)** — Featured public work · ⭐ 0
+- **[mini-redis](https://github.com/Flavia-MV/mini-redis)** — Featured public work · ⭐ 0
+
+## Let’s connect
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=flavia-mv&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F245884147%3Fv%3D4" alt="flavia-mv social visual" />
+</p>
+
+<a href="https://github.com/flavia-mv">GitHub</a>
+
+<p align="center"><sub>flavia-mv · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
